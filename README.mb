@@ -1,4 +1,4 @@
-# Aplicação de Geração de Texto com IA
+#Aplicação de Geração de Texto com IA
 
 Esta aplicação utiliza o modelo GPT-2 da Hugging Face para gerar texto com base em um prompt fornecido pelo usuário.
 
@@ -17,7 +17,7 @@ my_ai_app/
 
 ## Passos para Instalação
 
-1. Clone este repositório:
+Clone este repositório:
 
    ```sh
    git clone https://github.com/seu-usuario/my_ai_app.git
