@@ -17,11 +17,6 @@ my_ai_app/
 
 ## Passos para Instalação
 
-Clone este repositório:
-
-   ```sh
-   git clone https://github.com/seu-usuario/my_ai_app.git
-
 --Instale as dependências necessárias:
 
 pip install -r requirements.txt
