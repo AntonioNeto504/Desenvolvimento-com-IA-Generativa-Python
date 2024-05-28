@@ -2,7 +2,7 @@
 
 Esta aplicação utiliza o modelo GPT-2 da Hugging Face para gerar texto com base em um prompt fornecido pelo usuário.
 
-## Estrutura do Projeto
+##Estrutura do Projeto
 
 my_ai_app/
 ├── main.py
@@ -10,12 +10,12 @@ my_ai_app/
 └── README.md
 
 
-## Pré-requisitos
+##Pré-requisitos
 
 - Python 3.6 ou superior
 - Pip (gerenciador de pacotes do Python)
 
-## Passos para Instalação
+##Passos para Instalação
 
 --Instale as dependências necessárias:
 
